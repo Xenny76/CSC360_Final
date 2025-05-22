@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSC360_Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9ddf7eae2e097a4162770cdd95e976585852ba6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSC360_Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSC360_Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
