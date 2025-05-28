@@ -2,5 +2,6 @@
 {
     public interface IProduct
     {
+        void PrintInfo();
     }
 }

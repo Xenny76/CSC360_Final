@@ -2,5 +2,6 @@
 {
     public interface IFlyweight
     {
+        string  Key { get; }
     }
 }
